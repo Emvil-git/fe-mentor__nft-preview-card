@@ -94,6 +94,7 @@ body{
 
 .price, .time{
     display: flex;
+    width: fit-content;
 }
 
 .price{
